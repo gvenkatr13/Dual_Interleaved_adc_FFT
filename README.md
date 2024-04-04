@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes the STM32H7H7 microcontroller to perform Fast Fourier Transform (FFT) computations on ADC samples acquired in Dual Interleaved Mode. It leverages Direct Memory Access (DMA) for efficient data transfer between the ADC and memory, reducing CPU overhead.
+This project utilizes the STM32H7H7 microcontroller to perform Fast Fourier Transform (FFT) computations on ADC samples acquired in Dual Interleaved Mode with Direct Memory Access (DMA).
 
 ## Features
 
